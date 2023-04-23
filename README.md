@@ -35,6 +35,12 @@ This API is created Using FastAPI as primary client-facing API layer,which handl
 - Pydantic: https://pydantic-docs.helpmanual.io/
 
 
+## Demo Pics
+
+![GitHub Logo](https://github.com/rahulrakeshrr/Trade_Search_Fastapi/blob/main/Demo%20pic%202.png)
+![GitHub Logo](https://github.com/rahulrakeshrr/Trade_Search_Fastapi/blob/main/Demo%20pic%201.png)
+
+
 ## Author
 
 - [@rahulrakeshrr](https://github.com/rahulrakeshrr)
