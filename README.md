@@ -8,6 +8,7 @@
 - [Demo](#demo)
 - [Overview](#overview)
 - [TechStack](#techstack)
+- [Demopics](#demo)
 - [References](#references)
 - [Author](#author)
 
@@ -29,17 +30,16 @@ This API is created Using FastAPI as primary client-facing API layer,which handl
 - VS code
 
 
-## References
-
-- FastAPI: https://fastapi.tiangolo.com/
-- Pydantic: https://pydantic-docs.helpmanual.io/
-
-
 ## Demo Pics
 
 ![GitHub Logo](https://github.com/rahulrakeshrr/Trade_Search_Fastapi/blob/main/Demo%20pic%202.png)
 ![GitHub Logo](https://github.com/rahulrakeshrr/Trade_Search_Fastapi/blob/main/Demo%20pic%201.png)
 
+
+## References
+
+- FastAPI: https://fastapi.tiangolo.com/
+- Pydantic: https://pydantic-docs.helpmanual.io/
 
 ## Author
 
